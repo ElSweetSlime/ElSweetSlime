@@ -10,4 +10,4 @@
 
 21 7 12 25!
 
-[Screenshot 2022-10-25 9 41 01 AM](https://user-images.githubusercontent.com/115834334/199325575-fcd9a39c-d193-4700-b633-a27f0d4e167e.png)
+<img https://user-images.githubusercontent.com/115834334/199325575-fcd9a39c-d193-4700-b633-a27f0d4e167e.png>
